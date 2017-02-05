@@ -1,0 +1,26 @@
+﻿# blocks
+tile.testblock.name=Test Block
+tile.mpspartblock.name=Base Part Block
+
+# items
+item.engineers_book.name=§eEngineer's Guide§r
+
+item.engineers_wrench.name=§eEngineer's Wrench§r
+item.engineers_screwdriver.name=§eEngineer's Screwdriver§r
+item.engineers_screwdriver_rare.name=§bRare Screwdriver§r
+item.engineers_screwdriver_rusty.name=§6Rusty Screwdriver§r
+
+item.dart.name=Dart
+
+# entities
+entity.dart.name=Dart
+
+# creative tabs
+itemGroup.engineeringmod=Engineering Mod
+
+# achievements
+achievement.test1=Test 1
+achievement.test1.desc=Test 1 Description
+
+achievement.test2=Test 2
+achievement.test2.desc=Take the screwdriver, young Padawan. The Screwdriver!

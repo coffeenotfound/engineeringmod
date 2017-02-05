@@ -1,0 +1,5 @@
+# blocks
+tile.iron_ore_deposit.name=Iron Ore Deposit
+tile.iron_ore_deposit.lean.name=Lean Iron Ore Deposit
+tile.iron_ore_deposit.average.name=Average Iron Ore Deposit
+tile.iron_ore_deposit.rich.name=Rich Iron Ore Deposit
